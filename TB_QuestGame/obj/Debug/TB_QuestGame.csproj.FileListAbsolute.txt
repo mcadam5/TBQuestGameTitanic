@@ -1,0 +1,30 @@
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\bin\Debug\TB_QuestGame.exe.config
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\bin\Debug\TB_QuestGame.exe
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\bin\Debug\TB_QuestGame.pdb
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\obj\Debug\TB_QuestGame.exe
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\obj\Debug\TB_QuestGame.pdb
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\obj\Debug\TB_QuestGame.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.exe.config
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.exe
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.pdb
+F:\COLLEGE\School 2017-18\195\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.exe.config
+F:\COLLEGE\School 2017-18\195\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.exe
+F:\COLLEGE\School 2017-18\195\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.pdb
+F:\COLLEGE\School 2017-18\195\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.csprojResolveAssemblyReference.cache
+F:\COLLEGE\School 2017-18\195\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.csproj.CoreCompileInputs.cache
+F:\COLLEGE\School 2017-18\195\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.exe
+F:\COLLEGE\School 2017-18\195\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.pdb
+C:\Users\Kerri\Desktop\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.exe.config
+C:\Users\Kerri\Desktop\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.exe
+C:\Users\Kerri\Desktop\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.pdb
+C:\Users\Kerri\Desktop\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.csprojResolveAssemblyReference.cache
+C:\Users\Kerri\Desktop\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.csproj.CoreCompileInputs.cache
+C:\Users\Kerri\Desktop\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.exe
+C:\Users\Kerri\Desktop\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.pdb
+F:\COLLEGE\School 2017-18\195\W12\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.exe.config
+F:\COLLEGE\School 2017-18\195\W12\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.exe
+F:\COLLEGE\School 2017-18\195\W12\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.pdb
+F:\COLLEGE\School 2017-18\195\W12\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.csprojResolveAssemblyReference.cache
+F:\COLLEGE\School 2017-18\195\W12\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.csproj.CoreCompileInputs.cache
+F:\COLLEGE\School 2017-18\195\W12\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.exe
+F:\COLLEGE\School 2017-18\195\W12\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.pdb
